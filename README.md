@@ -17,7 +17,7 @@ Therefore I do have some concrete ideas and strong believes.
 - establishing my own publishing comany, working internationally for 25 years
 - in the field of professional lighting design in architecture --> PLD magazine
 
-    <img src="./buchMitLicht.png" alt="JR private" width="200"/>
+    <img src="./buchMitLicht.png" alt="my past I am proud on" width="200"/>
 
 - initiator and co-founder of the Professional Lighting Designers' Association, including management and finances
 - developer and organiser of more than 50 international practical workshops in lighting design in public spaces
@@ -45,12 +45,12 @@ Therefore I do have some concrete ideas and strong believes.
 - marketing 
 - photography and working on picture design
 
-    <img src="./Baum_3.jpg" alt="JR private" width="200"/>
+    <img src="./Baum_3.JPG" alt="Tree" width="200"/>
 
 ### Where I see my future?
 Whereever there is something new to be developed I am willing to spend my energy.
 
-<img src="./IMG_3292.png" alt="JR private" width="400"/>
+<img src="./IMG_3292.PNG" alt="success" width="400"/>
 
 ### Before you start searching in facebook...
 - I have humor
