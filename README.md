@@ -43,3 +43,5 @@ Therefore I do have some concrete ideas and strong believes.
 Whereever there is something new to be developed I am willing to spend my energy.
 
 jritter@via-internet.com
+
+PS. Why Kazhim Rycerz? Rycerz is the Polish translation for 'Ritter' and 'Kazhim' is the combination of **Kaz**hal and Joac**him**.
