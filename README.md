@@ -1,6 +1,10 @@
 ### Hi there 👋
 
 # Some info on Joachim Ritter
+Journalist, manager, creator of opportunities, currently learning website coding.
+
+![myFingerprintInProfession](./src/Images/JoachimRitterPage.jpg)
+
 
 I have been a journalist and publisher for 40 years and currently learning full stack webdesign at the Digital Carrer Institute in Germany. I like to learn all about the possibilities of publishing and communicating online. My goal for the future is to find new ways of publishing including 
 - contents
