@@ -37,10 +37,19 @@ Therefore I do have some concrete ideas and strong believes.
 - webdesign using VS Code
 - fast webdesign using Wix
 - marketing 
-- photography and design working on picture design
+- photography and working on picture design
 
 ### Where I see my future?
 Whereever there is something new to be developed I am willing to spend my energy.
+
+### Before you start searching in facebook...
+- I have humor
+- I was born in 1962
+- I enjoy sport like skiing, speedminton, football, tabletennis
+- I enjoy gardening, learning new topics, discussing politics and human beings
+- I prefer Norway an Canada more than Mallorca and beachholiday
+- my experience I like to remeber: rafting and diving (Great Barrier Reef) in Australia, skiing in Lake Louise/CDN and of course
+- driving a Z4 in Norway
 
 jritter@via-internet.com
 
