@@ -1,10 +1,9 @@
-### Hi there 👋
+### Hi there 👋, it's me
 
-# Some info on Joachim Ritter
+# Joachim Ritter
 Journalist, manager, creator of opportunities, currently learning website coding.
 
-![myFingerprintInProfession](./src/Images/JoachimRitterPage.jpg)
-
+<img src="./Joachim_privat.JPG" alt="JR private" width="200"/>
 
 I have been a journalist and publisher for 40 years and currently learning full stack webdesign at the Digital Carrer Institute in Germany. I like to learn all about the possibilities of publishing and communicating online. My goal for the future is to find new ways of publishing including 
 - contents
@@ -13,10 +12,13 @@ I have been a journalist and publisher for 40 years and currently learning full 
 
 Therefore I do have some concrete ideas and strong believes. 
 
-### My career in brief
+### My career in brief ==> where I come from
 - Learning at Bertelsmann/GER economy and journalism for trade magazines
 - establishing my own publishing comany, working internationally for 25 years
 - in the field of professional lighting design in architecture --> PLD magazine
+
+    <img src="./buchMitLicht.png" alt="JR private" width="200"/>
+
 - initiator and co-founder of the Professional Lighting Designers' Association, including management and finances
 - developer and organiser of more than 50 international practical workshops in lighting design in public spaces
 - creator of the largest convention on lighting design wordwide with more than 2000 international attendees 
@@ -43,14 +45,19 @@ Therefore I do have some concrete ideas and strong believes.
 - marketing 
 - photography and working on picture design
 
+    <img src="./Baum_3.jpg" alt="JR private" width="200"/>
+
 ### Where I see my future?
 Whereever there is something new to be developed I am willing to spend my energy.
+
+<img src="./IMG_3292.png" alt="JR private" width="400"/>
 
 ### Before you start searching in facebook...
 - I have humor
 - I was born in 1962
 - I enjoy sport like skiing, speedminton, football, tabletennis
 - I enjoy gardening, learning new topics, discussing politics and human beings
+- I can make compromises, except with Putin.
 - I prefer Norway an Canada more than Mallorca and beachholiday
 - my experience I like to remeber: rafting and diving (Great Barrier Reef) in Australia, skiing in Lake Louise/CDN and of course
 - driving a Z4 in Norway
