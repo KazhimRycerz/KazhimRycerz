@@ -9,7 +9,7 @@ I have been a journalist and publisher for 40 years and currently learning full 
 
 Therefore I do have some concrete ideas and strong believes. 
 
-### My career in brief:
+### My career in brief
 - Learning at Bertelsmann/GER economy and journalism for trade magazines
 - establishing my own publishing comany, working internationally for 25 years
 - in the field of professional lighting design in architecture --> PLD magazine
@@ -53,4 +53,4 @@ Whereever there is something new to be developed I am willing to spend my energy
 
 jritter@via-internet.com
 
-PS. Why Kazhim Rycerz? Rycerz is the Polish translation for 'Ritter' and 'Kazhim' is the combination of **Kaz**hal and Joac**him**.
+PS. Why Kazhim Rycerz? Rycerz is the Polish translation for 'Ritter' and 'Kazhim' is the combination of **Kaz**hal and Joac**him**, the creators and best combination of Kazhim and Achal
