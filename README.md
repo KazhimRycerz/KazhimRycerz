@@ -3,7 +3,7 @@
 # Joachim Ritter
 Journalist, manager, creator of opportunities, currently learning website coding.
 
-<img src="./fingerprint_homepage.jpg"/>
+<img src="fingerprint_homepage.jpg"/>
 
 I have been a journalist and publisher for 40 years and currently learning full stack webdesign at the Digital Carrer Institute in Germany. I like to learn all about the possibilities of publishing and communicating online. My goal for the future is to find new ways of publishing including 
 - contents
@@ -17,7 +17,7 @@ Therefore I do have some concrete ideas and strong believes.
 - establishing my own publishing comany, working internationally for 25 years
 - in the field of professional lighting design in architecture --> PLD magazine
 
-    <img src="./buchMitLicht.png" alt="my past I am proud on" width="200"/>
+    <img src="./buchMitLicht.png" alt="my past I am proud of" width="200"/>
 
 - initiator and co-founder of the Professional Lighting Designers' Association, including management and finances
 - developer and organiser of more than 50 international practical workshops in lighting design in public spaces
@@ -64,4 +64,4 @@ When there is something new to be developed I am willing to spend my energy and 
 
 jritter@via-internet.com
 
-PS. Why Kazhim Rycerz? Rycerz is the Polish translation for 'Ritter' and 'Kazhim' is the combination of **Kaz**hal and Joac**him**, the creators and best combination of Kazhim and Joachal
+PS. Why Kazhim Rycerz? Rycerz is the Polish translation for 'Ritter' (my father's origin) and 'Kazhim' is the combination of **Kaz**hal and Joac**him**, the creators and best combination of both kids, Kazhim and Achal.
