@@ -3,7 +3,7 @@
 # Joachim Ritter
 Journalist, manager, creator of opportunities, currently learning website coding.
 
-<img src="./Joachim_privat.JPG" alt="JR private" width="200"/>
+<img src="./fingerprint_homepage.jpg"/>
 
 I have been a journalist and publisher for 40 years and currently learning full stack webdesign at the Digital Carrer Institute in Germany. I like to learn all about the possibilities of publishing and communicating online. My goal for the future is to find new ways of publishing including 
 - contents
@@ -26,7 +26,7 @@ Therefore I do have some concrete ideas and strong believes.
 
 - currently learning full stack web development front- and backend.
 
-### My strength are 
+### My strengths are 
 - conceptional and strategic work
 - creativity
 - future oriented thinking
@@ -48,7 +48,7 @@ Therefore I do have some concrete ideas and strong believes.
     <img src="./Baum_3.JPG" alt="Tree" width="200"/>
 
 ### Where I see my future?
-Whereever there is something new to be developed I am willing to spend my energy.
+When there is something new to be developed I am willing to spend my energy and join the team.
 
 <img src="./IMG_3292.PNG" alt="success" width="400"/>
 
@@ -58,10 +58,10 @@ Whereever there is something new to be developed I am willing to spend my energy
 - I enjoy sport like skiing, speedminton, football, tabletennis
 - I enjoy gardening, learning new topics, discussing politics and human beings
 - I can make compromises, except with Putin.
-- I prefer Norway an Canada more than Mallorca and beachholiday
-- my experience I like to remeber: rafting and diving (Great Barrier Reef) in Australia, skiing in Lake Louise/CDN and of course
+- I prefer Norway and/or Canada more than Mallorca and beach holidays
+- my experience I like to remeber: rafting in Norway and Australia, diving (Great Barrier Reef), skiing in Lake Louise/CDN and of course
 - driving a Z4 in Norway
 
 jritter@via-internet.com
 
-PS. Why Kazhim Rycerz? Rycerz is the Polish translation for 'Ritter' and 'Kazhim' is the combination of **Kaz**hal and Joac**him**, the creators and best combination of Kazhim and Achal
+PS. Why Kazhim Rycerz? Rycerz is the Polish translation for 'Ritter' and 'Kazhim' is the combination of **Kaz**hal and Joac**him**, the creators and best combination of Kazhim and Joachal
