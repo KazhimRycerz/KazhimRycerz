@@ -1,11 +1,11 @@
 ### Hi there 👋, it's me
 
 # Joachim Ritter
-Journalist, manager, creator of opportunities, currently learning website coding.
+Journalist, manager, creator of opportunities, currently developing my skills in website coding.
 
 <img src="./fingerprint_homepage.jpg"/>
 
-I have been a journalist and publisher for 40 years and currently learning full stack webdesign at the Digital Carrer Institute in Germany. I like to learn all about the possibilities of publishing and communicating online. My goal for the future is to find new ways of publishing including 
+I have been a journalist and publisher for 40 years and currently fionnished my full stack webdesign course at the Digital Carrer Institute in Germany. I like to learn all about the possibilities of publishing and communicating online. My goal for the future is to find new ways of publishing including 
 - contents
 - economy
 - marketing
@@ -13,7 +13,7 @@ I have been a journalist and publisher for 40 years and currently learning full 
 Therefore I do have some concrete ideas and strong believes. 
 
 ### My career in brief --> where I come from
-- Learning at Bertelsmann/GER economy and journalism for trade magazines
+- learning at Bertelsmann/GER economy and journalism for trade magazines
 - establishing my own publishing comany, working internationally for 25 years
 - in the field of professional lighting design in architecture --> PLD magazine
 
@@ -23,8 +23,7 @@ Therefore I do have some concrete ideas and strong believes.
 - developer and organiser of more than 50 international practical workshops in lighting design in public spaces
 - creator of the largest convention on lighting design wordwide with more than 2000 international attendees each event
 - project developer for museums, public and private
-
-- currently learning full stack web development front- and backend.
+- full stack web development front- and backend.
 
 ### My strengths are 
 - conceptional and strategic work
@@ -76,10 +75,10 @@ When there is something new to be developed I am willing to spend my energy and 
 - I enjoy gardening, learning about new topics, discussing politics and human beings
 - I can make compromises, except with Putin.
 - I prefer Norway and/or Canada more than Mallorca partyzone and beach holidays
-- driving a Z4 in Norway
+- I enjoy driving a Z4 in Norway
 - my experience I like to remember most: rafting in Norway and Australia, diving (Great Barrier Reef), skiing in Lake Louise/CDN and of course
 <img src="./media.media.63b331e0-2d25-4204-891d-8eeca9d72f95.16x9_1024.jpg" alt="success" width="400"/>
 
-jritter@via-internet.com
+jritter@via-internet.com / joachim.rycerz@gmail.com
 
 PS. Why Kazhim Rycerz? Rycerz is the Polish translation for 'Ritter' (my father's origin) and 'Kazhim' is the combination of **Kaz**hal and Joac**him**, the creators of 'Kazhim' and best combination of both kids, Kazhim and Achal.
